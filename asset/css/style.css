@@ -105,10 +105,14 @@ form {
     font-size: 30px;
     font-weight: 200;
 }
+.custom-list{
+    font-weight: 200;
+    font-size: 18px;
+}
 .foto_cv {
     height: 250px;
     margin: 0px;
-    padding: 0%s;
+    padding: 0%;
 }
 .experiencia_educacion {
     font-weight: 200;
