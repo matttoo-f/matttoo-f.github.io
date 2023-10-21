@@ -107,6 +107,8 @@ form {
 }
 .foto_cv {
     height: 250px;
+    margin: 0px;
+    padding: 0%s;
 }
 .experiencia_educacion {
     font-weight: 200;
