@@ -19,6 +19,10 @@ body {
 hr {
     margin: 0px;
 }
+.imagen_fondo{
+    height: 400px;
+    background-image: url("../img/fondo_1.png");
+}
 .fondo1 {
     height: 450px;
     margin-top: 2em;
@@ -77,6 +81,10 @@ hr {
 .logo_contacto{
     height: 150px;
     margin: 5em;
+}
+i{
+    font-size: 40px;
+    color:  rgb(187, 188, 189);
 }
 .mapa {
     height: 400px;
