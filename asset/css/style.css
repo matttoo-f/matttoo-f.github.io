@@ -1,8 +1,91 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(182, 247, 194);
-    color: rgb(90, 137, 122);
+    background-color: rgb(31, 30, 30);
+    background-image: url("../img/fondo_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Work Sans';
+    color: rgb(245, 134, 31) ;
 }
-img {
-    height: 500px;
+.logo1 {
+    height: 70px;
+    margin-top: 1em;
+}
+.navbar-nav li a{
+    font-weight: 200;
+}
+.navbar-nav li a:hover {
+    background-color: rgb(245, 134, 31);
+}
+.fondo1 {
+    height: 450px;
+    margin-top: 2em;
+}
+.subtitulo {
+    color:rgb(187, 188, 189) ;
+}
+.copyright {
+    font-weight: 200;
+    color: rgb(253, 203, 128) ;
+    margin-left: 0px;
+    padding: 0px;
+    text-align: center;
+}
+/* Acerca de mi */
+.yo {
+    height: 350px;
+    margin: 4em;
+}
+.este_soy_yo {
+    font-weight: 600;
+}
+.presentacion {
+    color: rgb(187, 188, 189);
+    font-weight: 200;
+}
+.link1 {
+    text-decoration: none;
+    color: rgb(245, 134, 31);
+    padding: 0.5em;
+    font-weight:400;
+}
+.link1:hover {
+    background-color: rgb(245, 134, 31);
+    color: white;
+}
+/* portafolio */
+.card{
+    width: 18rem;
+    background-color: black;
+    color:rgb(245, 134, 31) ;
+}
+.card-title {
+    font-weight: 400;   
+}
+.card-text {
+    font-weight: 200;
+    color: rgb(187, 188, 189);
+}
+.btn {
+    background-color: rgb(31, 30, 30);
+    color:  rgb(187, 188, 189);
+    border-color: rgb(245, 134, 31);
+}
+/* contacto */
+.logo_contacto{
+    height: 150px;
+    margin: 5em;
+}
+.mapa {
+    height: 400px;
+}
+.subtitulo-contacto {
+    color:rgb(253, 254, 255) ;
+    font-weight: 200;
+}
+form {
+    width: 400px;
+}
+/* cv */
+.foto_cv {
+    height: 250px;
 }
