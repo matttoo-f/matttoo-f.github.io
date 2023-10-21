@@ -8,13 +8,16 @@ body {
 }
 .logo1 {
     height: 70px;
-    margin-top: 1em;
+    margin: 1em;
 }
 .navbar-nav li a{
     font-weight: 200;
 }
 .navbar-nav li a:hover {
     background-color: rgb(245, 134, 31);
+}
+hr {
+    margin: 0px;
 }
 .fondo1 {
     height: 450px;
