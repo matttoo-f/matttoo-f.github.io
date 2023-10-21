@@ -16,6 +16,9 @@ body {
 .navbar-nav li a:hover {
     background-color: rgb(245, 134, 31);
 }
+.navbar-toggler-icon{
+    background-color:  rgb(245, 134, 31);
+}
 hr {
     margin: 0px;
 }
