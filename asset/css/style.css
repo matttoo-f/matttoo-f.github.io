@@ -19,12 +19,8 @@ body {
 hr {
     margin: 0px;
 }
-.imagen_fondo{
-    height: 400px;
-    background-image: url("../img/fondo_1.png");
-}
 .fondo1 {
-    height: 450px;
+    height:350px;
     margin-top: 2em;
 }
 .subtitulo {
@@ -97,7 +93,23 @@ form {
     width: 400px;
 }
 /* cv */
+.curriculum{
+    font-size: 40px;
+    font-weight: 200;
+}
+.mi_nombre {
+    font-weight: 200;
+    font-size: 30px;
+}
+.objetivo {
+    font-size: 30px;
+    font-weight: 200;
+}
 .foto_cv {
     height: 250px;
+}
+.experiencia_educacion {
+    font-weight: 200;
+    font-size: 40px;
 }
 /* hoja de estilos general */
